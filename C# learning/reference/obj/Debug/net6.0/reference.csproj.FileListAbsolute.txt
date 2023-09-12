@@ -1,0 +1,15 @@
+C:\Users\win\Desktop\C# learning\reference\bin\Debug\net6.0\reference.exe
+C:\Users\win\Desktop\C# learning\reference\bin\Debug\net6.0\reference.deps.json
+C:\Users\win\Desktop\C# learning\reference\bin\Debug\net6.0\reference.runtimeconfig.json
+C:\Users\win\Desktop\C# learning\reference\bin\Debug\net6.0\reference.dll
+C:\Users\win\Desktop\C# learning\reference\bin\Debug\net6.0\reference.pdb
+C:\Users\win\Desktop\C# learning\reference\obj\Debug\net6.0\reference.csproj.AssemblyReference.cache
+C:\Users\win\Desktop\C# learning\reference\obj\Debug\net6.0\reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Desktop\C# learning\reference\obj\Debug\net6.0\reference.AssemblyInfoInputs.cache
+C:\Users\win\Desktop\C# learning\reference\obj\Debug\net6.0\reference.AssemblyInfo.cs
+C:\Users\win\Desktop\C# learning\reference\obj\Debug\net6.0\reference.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\C# learning\reference\obj\Debug\net6.0\reference.dll
+C:\Users\win\Desktop\C# learning\reference\obj\Debug\net6.0\refint\reference.dll
+C:\Users\win\Desktop\C# learning\reference\obj\Debug\net6.0\reference.pdb
+C:\Users\win\Desktop\C# learning\reference\obj\Debug\net6.0\reference.genruntimeconfig.cache
+C:\Users\win\Desktop\C# learning\reference\obj\Debug\net6.0\ref\reference.dll
