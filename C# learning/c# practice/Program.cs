@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 
 namespace myStringMethods
@@ -8,16 +7,10 @@ namespace myStringMethods
     {
         static void Main(string[] args)
         {
-            string myString = "     ";
+            string myString = "Me";
 
-            int lengthString =  myString.Length;
-            Console.WriteLine(lengthString);
-
-            int index = myString.IndexOf('l');
-            Console.WriteLine(index);
-
-            string subString = myString.Substring(0);
-            Console.WriteLine(subString);
+         
+            
         }
     }
 }
